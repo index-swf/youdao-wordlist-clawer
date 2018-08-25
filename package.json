@@ -1,0 +1,15 @@
+{
+  "name": "youdao-wordlist-clawer",
+  "version": "1.0.0",
+  "description": "claw youdao wordlist",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "caoyy",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.7.0"
+  }
+}

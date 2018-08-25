@@ -1,0 +1,421 @@
+[{
+    "serialNumber": 1,
+    "word": "Alfred",
+    "phonetic": "",
+    "description": "n. 阿尔佛雷德（男子名）",
+    "createTime": "2018-6-28",
+    "tags": ""
+}, {
+    "serialNumber": 2,
+    "word": "Apache",
+    "phonetic": "[ə'pæʃ; æpæʃ]",
+    "description": "n. 阿帕切族（美洲印第安部族）",
+    "createTime": "2015-12-25",
+    "tags": ""
+}, {
+    "serialNumber": 3,
+    "word": "Authorization",
+    "phonetic": "[ɔːθəraɪ'zeɪʃ(ə)n]",
+    "description": "n. 授权，认可；批准，委任",
+    "createTime": "2015-9-15",
+    "tags": ""
+}, {
+    "serialNumber": 4,
+    "word": "Babel",
+    "phonetic": "['beɪb(ə)l]",
+    "description": "n. 巴比伦式的城市；巴别塔 Babel: 通天塔 | 巴别塔 | Babel",
+    "createTime": "2016-7-11",
+    "tags": ""
+}, {
+    "serialNumber": 5,
+    "word": "Bable",
+    "phonetic": "",
+    "description": "n. 通天塔（等于巴别塔）",
+    "createTime": "2018-6-28",
+    "tags": ""
+}, {
+    "serialNumber": 6,
+    "word": "CORS",
+    "phonetic": "",
+    "description": "abbr. 连续运行参考站（Continuously Operating Reference Stations）；克-奥二氏分级量表（Cronholm-Ottosson Rating Scale） n. (Cors)人名；(德)科斯",
+    "createTime": "2018-6-28",
+    "tags": ""
+}, {
+    "serialNumber": 7,
+    "word": "Cascading",
+    "phonetic": "[kæ'skeɪdɪŋ]",
+    "description": "n. [电] 级联；串接；阶式渗透; v. 瀑布般落下；串联；传递信息（cascade的ing形式）",
+    "createTime": "2015-8-18",
+    "tags": ""
+}, {
+    "serialNumber": 8,
+    "word": "Charles",
+    "phonetic": "",
+    "description": "n. 查尔斯（人名）",
+    "createTime": "2018-6-28",
+    "tags": ""
+}, {
+    "serialNumber": 9,
+    "word": "Cordova",
+    "phonetic": "['kɔ:dəvə]",
+    "description": "n. 哥多华（西班牙的一城市名）；科尔多瓦（美国一城市名）；科尔多瓦（姓氏，等于Cordoba）",
+    "createTime": "2016-5-5",
+    "tags": ""
+}, {
+    "serialNumber": 10,
+    "word": "Currying",
+    "phonetic": "",
+    "description": "n. 加脂法；[皮革] 加脂操作; v. 在…中加咖喱粉；梳刷；鞭笞（curry的ing形式）",
+    "createTime": "2016-4-25",
+    "tags": ""
+}, {
+    "serialNumber": 11,
+    "word": "FYI",
+    "phonetic": "",
+    "description": "abbr. 供参考（For Your Information）",
+    "createTime": "2018-6-28",
+    "tags": ""
+}, {
+    "serialNumber": 12,
+    "word": "Huffman",
+    "phonetic": "",
+    "description": "n. 霍夫曼（人名） Huffman: 哈夫曼 | 霍夫曼 | 赫夫曼",
+    "createTime": "2016-8-24",
+    "tags": ""
+}, {
+    "serialNumber": 13,
+    "word": "Internationalization",
+    "phonetic": "['ɪntə,næʃənəlaɪ'zeɪʃən]",
+    "description": "n. 国际化",
+    "createTime": "2016-4-19",
+    "tags": ""
+}, {
+    "serialNumber": 14,
+    "word": "Jervis",
+    "phonetic": "",
+    "description": "n. 杰维斯（男子名）",
+    "createTime": "2018-6-28",
+    "tags": ""
+}, {
+    "serialNumber": 15,
+    "word": "Jianli",
+    "phonetic": "",
+    "description": "n. 简历（拼音）",
+    "createTime": "2018-6-28",
+    "tags": ""
+}, {
+    "serialNumber": 16,
+    "word": "Kafka",
+    "phonetic": "['ka:fka:]",
+    "description": "n. 卡夫卡（奥地利小说家） Kafka: 卡夫卡 | 卡夫卡传 | 考夫卡",
+    "createTime": "2016-7-25",
+    "tags": ""
+}, {
+    "serialNumber": 17,
+    "word": "NAS",
+    "phonetic": "",
+    "description": "abbr. 美国国家科学院（National Academy of Sciences）；美国国家飞机标准（National Aircraft Standards） n. (Nas)人名；(土)纳斯",
+    "createTime": "2018-6-28",
+    "tags": ""
+}, {
+    "serialNumber": 18,
+    "word": "Nitty gritty",
+    "phonetic": "",
+    "description": "Nitty gritty: 细节",
+    "createTime": "2016-8-24",
+    "tags": ""
+}, {
+    "serialNumber": 19,
+    "word": "OPS",
+    "phonetic": "",
+    "description": "abbr. （美国）物价管制局（Office of Price Stabilization）；管道安全处（Office of Pipeline Safety）",
+    "createTime": "2018-6-28",
+    "tags": ""
+}, {
+    "serialNumber": 20,
+    "word": "Paginator",
+    "phonetic": "",
+    "description": "",
+    "createTime": "2016-9-22",
+    "tags": ""
+}, {
+    "serialNumber": 21,
+    "word": "Pannel",
+    "phonetic": "",
+    "description": "n. (Pannel)人名；(法)帕内尔；(瑞典)潘内尔",
+    "createTime": "2018-6-28",
+    "tags": ""
+}, {
+    "serialNumber": 22,
+    "word": "Q",
+    "phonetic": "",
+    "description": "abbr. 女王，王后（Queen） n. 字母q",
+    "createTime": "2018-6-28",
+    "tags": ""
+}, {
+    "serialNumber": 23,
+    "word": "Queenie",
+    "phonetic": "",
+    "description": "n. 奎尼（女子名）",
+    "createTime": "2018-6-28",
+    "tags": ""
+}, {
+    "serialNumber": 24,
+    "word": "Reddit",
+    "phonetic": "",
+    "description": "n. 新闻网站名",
+    "createTime": "2018-7-2",
+    "tags": ""
+}, {
+    "serialNumber": 25,
+    "word": "RegEx",
+    "phonetic": "",
+    "description": "n. 正则表达式",
+    "createTime": "2015-9-25",
+    "tags": ""
+}, {
+    "serialNumber": 26,
+    "word": "SB",
+    "phonetic": "",
+    "description": "abbr. 售货簿（Sales Book）；储蓄银行（Saving Bank）；烟灰吹除机（Soot Blower）",
+    "createTime": "2018-6-28",
+    "tags": ""
+}, {
+    "serialNumber": 27,
+    "word": "SMS",
+    "phonetic": "",
+    "description": "短讯服务（Short Messaging Service）；存储管理服务（Storage Management Services）",
+    "createTime": "2018-6-28",
+    "tags": ""
+}, {
+    "serialNumber": 28,
+    "word": "SYNOPSIS",
+    "phonetic": "[sɪ'nɒpsɪs]",
+    "description": "n. 概要，大纲",
+    "createTime": "2015-8-18",
+    "tags": ""
+}, {
+    "serialNumber": 29,
+    "word": "Scenario",
+    "phonetic": "[sɪ'nɑːrɪəʊ]",
+    "description": "n. 方案；情节；剧本",
+    "createTime": "2016-8-18",
+    "tags": ""
+}, {
+    "serialNumber": 30,
+    "word": "Tutorial",
+    "phonetic": "[tjuː'tɔːrɪəl]",
+    "description": "adj. 辅导的；家庭教师的，个别指导的; n. 个别指导",
+    "createTime": "2016-6-7",
+    "tags": ""
+}, {
+    "serialNumber": 31,
+    "word": "Valut",
+    "phonetic": "",
+    "description": "n. (Valut)人名；(捷)瓦卢特",
+    "createTime": "2018-6-28",
+    "tags": ""
+}, {
+    "serialNumber": 32,
+    "word": "Workflows",
+    "phonetic": "",
+    "description": "Workflows: 工作流 | 流程 | 工作流程",
+    "createTime": "2015-10-9",
+    "tags": ""
+}, {
+    "serialNumber": 33,
+    "word": "Wunder",
+    "phonetic": "",
+    "description": "n. (Wunder)人名；(英)旺德；(德、匈)文德尔",
+    "createTime": "2018-6-28",
+    "tags": ""
+}, {
+    "serialNumber": 34,
+    "word": "a stream of",
+    "phonetic": "",
+    "description": "一连串",
+    "createTime": "2018-7-19",
+    "tags": ""
+}, {
+    "serialNumber": 35,
+    "word": "ability",
+    "phonetic": "",
+    "description": "n. 能力，能耐；才能",
+    "createTime": "2018-6-28",
+    "tags": ""
+}, {
+    "serialNumber": 36,
+    "word": "absolute",
+    "phonetic": "['æbsəluːt]",
+    "description": "n. 绝对；绝对事物 adj. 绝对的；完全的；专制的 Absolute: 绝对 | 完全的 | 纯粹",
+    "createTime": "2015-10-23",
+    "tags": ""
+}, {
+    "serialNumber": 37,
+    "word": "abstraction",
+    "phonetic": "[əb'strækʃ(ə)n]",
+    "description": "n. 抽象；提取；抽象概念；空想；心不在焉 Abstraction: 抽象化 | 抽象化 | 抽象",
+    "createTime": "2016-7-20",
+    "tags": ""
+}, {
+    "serialNumber": 38,
+    "word": "abstractions",
+    "phonetic": "",
+    "description": "n. 抽象（abstraction的复数形式） Abstractions: 抽象 | 提取",
+    "createTime": "2016-8-3",
+    "tags": ""
+}, {
+    "serialNumber": 39,
+    "word": "acceleration",
+    "phonetic": "[əkselə'reɪʃ(ə)n]",
+    "description": "n. 加速，促进；[物] 加速度",
+    "createTime": "2016-4-8",
+    "tags": ""
+}, {
+    "serialNumber": 40,
+    "word": "acceptance",
+    "phonetic": "",
+    "description": "n. 接纳；赞同；容忍",
+    "createTime": "2018-6-28",
+    "tags": ""
+}, {
+    "serialNumber": 41,
+    "word": "acceptance speech",
+    "phonetic": "",
+    "description": "n. 总统候选人所做的提名演讲",
+    "createTime": "2018-6-28",
+    "tags": ""
+}, {
+    "serialNumber": 42,
+    "word": "accessibility",
+    "phonetic": "[ək,sesə'bɪlətɪ]",
+    "description": "n. 易接近；可亲；可以得到 Accessibility: 无障碍环境 | 可达性 | 可及性",
+    "createTime": "2015-10-13",
+    "tags": ""
+}, {
+    "serialNumber": 43,
+    "word": "accommodate",
+    "phonetic": "[ə'kɒmədeɪt]",
+    "description": "vi. 适应；调解 vt. 容纳；使适应；供应；调解 accommodate: 容纳 | 供应 | 调节",
+    "createTime": "2015-8-18",
+    "tags": ""
+}, {
+    "serialNumber": 44,
+    "word": "accompanied",
+    "phonetic": "",
+    "description": "v. 陪伴，伴随；伴奏（accompany的过去分词） adj. 伴随的；相伴的 Accompanied: 相伴 | 伴随的 | 陪伴",
+    "createTime": "2015-8-18",
+    "tags": ""
+}, {
+    "serialNumber": 45,
+    "word": "accompanying",
+    "phonetic": "[ə'kʌmpənɪɪŋ]",
+    "description": "adj. 陪伴的；附随的 v. 伴随（accompany的ing形式）",
+    "createTime": "2015-8-18",
+    "tags": ""
+}, {
+    "serialNumber": 46,
+    "word": "accomplishing",
+    "phonetic": "",
+    "description": "完成",
+    "createTime": "2016-4-29",
+    "tags": ""
+}, {
+    "serialNumber": 47,
+    "word": "accordion",
+    "phonetic": "[ə'kɔːdɪən]",
+    "description": "adj. 可折叠的; n. 手风琴",
+    "createTime": "2015-9-1",
+    "tags": ""
+}, {
+    "serialNumber": 48,
+    "word": "accumulate",
+    "phonetic": "",
+    "description": "vi. 累积；积聚 vt. 积攒",
+    "createTime": "2018-6-28",
+    "tags": ""
+}, {
+    "serialNumber": 49,
+    "word": "accumulator",
+    "phonetic": "",
+    "description": "n. 蓄电池；[计] 累加器；积聚者",
+    "createTime": "2018-6-28",
+    "tags": ""
+}, {
+    "serialNumber": 50,
+    "word": "acknowledged",
+    "phonetic": "[ək'nɒlɪdʒd]",
+    "description": "v. 承认；确认（acknowledge的过去式和过去分词）；答谢 adj. 公认的；被普遍认可的 acknowledged: 承认 | 公认的 | 得到承认的",
+    "createTime": "2016-8-10",
+    "tags": ""
+}, {
+    "serialNumber": 51,
+    "word": "acronym",
+    "phonetic": "['ækrənɪm]",
+    "description": "n. 首字母缩略词 acronym: 首字母缩略字 | 首字 | 首字母缩略词",
+    "createTime": "2016-8-24",
+    "tags": ""
+}, {
+    "serialNumber": 52,
+    "word": "actual",
+    "phonetic": "['æktʃʊəl; -tjʊəl]",
+    "description": "adj. 真实的，实际的；现行的，目前的 Actual: 实际 | 实际时间 | 实在的",
+    "createTime": "2015-9-25",
+    "tags": ""
+}, {
+    "serialNumber": 53,
+    "word": "addictive",
+    "phonetic": "",
+    "description": "adj. 使人上瘾的",
+    "createTime": "2018-6-28",
+    "tags": ""
+}, {
+    "serialNumber": 54,
+    "word": "adhere",
+    "phonetic": "",
+    "description": "vi. 坚持；依附；粘着；追随 vt. 使粘附",
+    "createTime": "2018-6-28",
+    "tags": ""
+}, {
+    "serialNumber": 55,
+    "word": "adjacent",
+    "phonetic": "",
+    "description": "adj. 邻近的，毗连的",
+    "createTime": "2018-6-28",
+    "tags": ""
+}, {
+    "serialNumber": 56,
+    "word": "adjoin",
+    "phonetic": "[ə'dʒɒɪn]",
+    "description": "vi. 毗连，邻接; vt. 毗连，邻接",
+    "createTime": "2015-11-20",
+    "tags": ""
+}, {
+    "serialNumber": 57,
+    "word": "adobe",
+    "phonetic": "[ə'dəʊbɪ; ə'dəʊb]",
+    "description": "n. 土砖，砖坯",
+    "createTime": "2015-11-5",
+    "tags": ""
+}, {
+    "serialNumber": 58,
+    "word": "adversory",
+    "phonetic": "",
+    "description": "",
+    "createTime": "2018-6-28",
+    "tags": ""
+}, {
+    "serialNumber": 59,
+    "word": "advisory",
+    "phonetic": "",
+    "description": "adj. 咨询的；顾问的；劝告的 n. 报告；公告",
+    "createTime": "2018-6-28",
+    "tags": ""
+}, {
+    "serialNumber": 60,
+    "word": "advocate",
+    "phonetic": "['ædvəkeɪt]",
+    "description": "n. 提倡者；支持者；律师 vt. 提倡，主张，拥护 Advocate: 主张 | 提倡者 | 提倡",
+    "createTime": "2015-9-8",
+    "tags": ""
+}]
