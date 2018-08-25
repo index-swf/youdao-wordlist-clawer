@@ -8,6 +8,9 @@ npm install && npm start
 
 执行完毕后 运行结果输出在当前目录的 **youdao-wordlist-xxxxxx.json** 文件中
 
+运行演示
+![demo](https://github.com/index-swf/youdao-wordlist-clawer/blob/master/demo.gif)
+
 #### 注意事项
 
 - 安装 puppeteer 可能需要翻墙，请自行查找相关文章
